@@ -1,0 +1,8 @@
+{
+	"version": "2.0.10",
+	"target": {
+		"pushToAll": 1,
+		"imei": ["867698041994695", "867698041994694", "867698041994693"]
+	},
+	"url": "http://www.iot-club.tech/rtthread.rbl"
+}
